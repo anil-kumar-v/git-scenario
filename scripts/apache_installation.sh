@@ -10,4 +10,3 @@ systemctl status apache
 #check the process
 ps -ef | grep -i httpd
 echo "This is devloper-1"
-echo "This is devloper-1 modified again"
